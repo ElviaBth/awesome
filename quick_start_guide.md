@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Quick Start Guide
-permalink: /quick-start-guide/
+title: Installation
+permalink: /installation/
 ---
-<h2>Installation</h2>
 Add this line to your application's Gemfile:
 
 ```ruby
