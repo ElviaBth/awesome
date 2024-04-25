@@ -2,6 +2,7 @@
 layout: page
 title: Installation
 permalink: /installation/
+image: /assets/images/check_image_migrations.png
 ---
 Add this line to your application's Gemfile:
 
@@ -18,7 +19,7 @@ bundle exec rails db:migrate
 ```
 If you are upgrading from a version prior to 0.8, make sure to visit the URL `/admin/decidim_awesome/checks` and run image migrations for the old images:
 
-![Check image migrations](examples/check_image_migrations.png)
+![Check image migrations]({{ page.image}})
 
 
 If you are a system admin, you can also perform this task by executing this rake task in the console:

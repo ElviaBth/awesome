@@ -1,0 +1,11 @@
+title: Tweaks Sidebar
+children:
+
+  - title: Image support for the Quill editor
+    url: /tweaks/quill_editor_support.html
+
+  - title: Auto-save for surveys and forms
+    url: /tweaks/autosave_for_surveys_and_forms.html
+
+  - title: Images in proposals
+    url: /images-in-proposals/
