@@ -11,7 +11,7 @@ children:
     url: /features/images_in_proposals.html
 
   - title: Markdown editor for proposals
-    url: /features/md_editor_in_surveys.html
+    url: /features/md_editor_for_proposals.html
 
   - title: Admin scope configuration
     url: /features/admin_scope_configuration.html
