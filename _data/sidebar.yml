@@ -25,22 +25,22 @@ children:
   - title: Live support chat
     url: /features/live_support_chat.html
 
-  - title: Custom CSS applied only according scoped restrictions
+  - title: Custom CSS
     url: /features/custom_css_scoped.html
 
-  - title: Change the main menu of Decidim entirely!
+  - title: Change the main menu
     url: /features/change_main_menu.html
 
-  - title: Assign admins to specific scopes and prevent them modify anything else
+  - title: Assign admins scopes
     url: /features/assign_admins_to_scopes.html
 
   - title: Custom fields for proposals
     url: /features/custom_fields_for_proposals.html
 
-  - title: Custom Redirections (or URL shortener feature)
+  - title: Custom Redirections
     url: /features/custom_redirections.html
 
-  - title: Custom validation rules for title and body in proposals
+  - title: Custom validation rules
     url: /features/custom_validation_rules.html
 
   - title: Admin accountability
