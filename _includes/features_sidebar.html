@@ -8,6 +8,16 @@
         </ul>
 </aside>
 
+<script>
+    document.querySelectorAll('ul li button a').forEach(link => {
+        link.classList.remove('active');
+
+        if (link.href == window.location.href){
+            link.classList.add('active');
+        }
+    });
+</script>
+
 <style>
     ul {
         list-style: none;
@@ -29,5 +39,9 @@
         text-align: end;
         margin-right: 2rem;
         margin-top: 60px;
+    }
+
+    ul li button a.active {
+        opacity: 0.5;
     }
 </style>
