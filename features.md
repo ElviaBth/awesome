@@ -4,6 +4,10 @@ title: Features
 permalink: /features/
 ---
 
+# Why this plugin?
+
+Decidim is an awesome platform, but it has some limitations that can be annoying for the users or the admins. This plugin tries to solve some of them. See the list of features here.
+
 ## Usage
 
 Read the [CHANGELOG](CHANGELOG.md) for Decidim compatibility.
