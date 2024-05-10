@@ -31,8 +31,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   in type of component only.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: openpoke
-github_username: decidim-ice
+twitter_username:
+github_username: openpoke
+decidim_username: openpoke
+telegram_username: openpoke
 
 # Build settings
 theme: minima

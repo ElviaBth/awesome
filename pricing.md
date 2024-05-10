@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Installation
-permalink: /installation/
+title: Pricing
+permalink: /pricing/
 image: /assets/images/check_image_migrations.png
 ---
 Add this line to your application's Gemfile:
