@@ -40,6 +40,11 @@ telegram_username: openpoke
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-postcss
+
+postcss:
+  cache: false
+  
 sidebars:
   - sidebar
 
